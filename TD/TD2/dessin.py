@@ -2,7 +2,7 @@ import tkinter as tk
 
 HEIGHT=500
 WIDTH=500
-
+#Dessin
 
 def fermer_fenetre():
     fenetre.destroy()
